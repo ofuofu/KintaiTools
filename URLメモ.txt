@@ -1,0 +1,1 @@
+https://kintaitoolsfunc.azurewebsites.net/api/GetTeijikanDate?code=5-x40rFqNZYEZ10gb82s6DRzt8CS9l2gWqxXX2ElAPl4AzFuuNsO_A==&reqyear=2022&reqmonth=9
